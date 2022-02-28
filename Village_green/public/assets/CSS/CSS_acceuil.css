@@ -1,0 +1,72 @@
+body{
+    background-image: url("/assets/images/music_background.jpg");
+}
+
+#logo {
+    z-index: 1;
+    position: absolute;
+    float:left;
+    width: 8.4%;
+    margin: 0%;
+    margin-left:0%;
+}
+
+#nav1{
+    font-size: 2em;
+}
+
+#navbarSupportedContent{
+    justify-content: center;
+    color: aliceblue;
+
+   
+}
+
+#nav2{
+    font-size: 2em;
+    background-color: dimgrey;
+  
+}
+
+.nav-link{
+    color: aliceblue!important;
+}
+
+#navbarNav{
+    justify-content: space-between;
+
+}
+
+nav ul li
+{
+ margin:0 70px; 
+}
+
+#bann_droite{
+   position: relative;
+   left: 300px;
+}
+
+#bann_gauche{
+    position: relative;
+    right: 310px;
+}
+
+#bann_bas{
+    position: relative;
+    left: 300px;
+}
+
+#titre1{
+   color: aliceblue;
+}
+
+#top_saxo{
+    position: relative;
+    left: 100px;
+}
+
+#top_piano{
+    position: relative;
+    left: 50px;
+}
